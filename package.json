@@ -2,6 +2,7 @@
   "name": "nuxtail",
   "version": "1.0.0",
   "private": true,
+  "author": "azulkipli",
   "homepage": "https://github.com/azulkipli/nuxtail#readme",
   "license": "GPL-3.0",
   "scripts": {
