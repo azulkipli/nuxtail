@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://github.com/azulkipli/nuxtail#readme",
-  "license": "See LICENSE",
+  "license": "GPL-3.0",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
